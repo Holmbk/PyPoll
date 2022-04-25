@@ -36,6 +36,7 @@ The analysis of the election show that:
 
 The winning county was:
   - Denver with the largest percentage of votes "82.8%" and 306,055 votes.
+  
 Print to monitor:
 
 ![PyPoll_Ch](https://user-images.githubusercontent.com/98991575/165103090-334d13d0-9c28-4ca7-bcb7-45c961a834a3.png)
