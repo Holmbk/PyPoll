@@ -32,8 +32,8 @@ The analysis of the election show that:
 2. The percentage of votes from each county out of the total count
 3. The county with the highest turnout.
 
-## Challenge Summary ![PyPoll_Ch](https://user-images.githubusercontent.com/98991575/165103090-334d13d0-9c28-4ca7-bcb7-45c961a834a3.png)
-
+## Challenge Summary 
 
 The winning county was:
   - Denver with the largest percentage of votes "82.8%" and 306,055 votes.
+![PyPoll_Ch](https://user-images.githubusercontent.com/98991575/165103090-334d13d0-9c28-4ca7-bcb7-45c961a834a3.png)
